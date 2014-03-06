@@ -11,7 +11,7 @@ function filterFiles(directory,fileExtension,callback){
 
 	getFileList(directory,function(err,files){
 		if(err) {
-			console.log("Error: " + err);
+			callback(err);
 			return;
 		}
 
