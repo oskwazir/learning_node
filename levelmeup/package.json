@@ -1,0 +1,18 @@
+{
+  "name": "levelmeup",
+  "version": "0.0.0",
+  "description": "levelmeup solutions",
+  "main": "ALLYOURBASE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "levelmeup",
+    "solutions"
+  ],
+  "author": "Omer Wazir",
+  "license": "ISC",
+  "dependencies": {
+    "level": "~0.18.0"
+  }
+}
