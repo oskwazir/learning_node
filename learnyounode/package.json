@@ -1,0 +1,29 @@
+{
+  "name": "learnyounode_solutions",
+  "version": "0.0.1",
+  "description": "Solutions for nodeschool.io learnyounode",
+  "main": "program1.js",
+  "dependencies": {
+    "bl": "~0.7.0",
+    "stream-browserify": "~0.1.3",
+    "strftime": "~0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewazir/learning_node"
+  },
+  "keywords": [
+    "learning",
+    "node"
+  ],
+  "author": "Omer Wazir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewazir/learning_node/issues"
+  },
+  "homepage": "https://github.com/thewazir/learning_node"
+}
