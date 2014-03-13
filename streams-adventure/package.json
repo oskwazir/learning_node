@@ -1,0 +1,14 @@
+{
+  "name": "streams-adventure-solutions",
+  "version": "0.0.0",
+  "description": "solutions for streams-adventure",
+  "main": "beep-boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Wazir",
+  "license": "ISC",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
+}
