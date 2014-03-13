@@ -1,7 +1,5 @@
 var http = require('http');
-var util = require('util');
 var url = require('url');
-var util = require('util');
 
 var parseTime = function(isoDate){
 	var date = new Date(isoDate);
