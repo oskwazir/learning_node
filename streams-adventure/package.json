@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "through": "~2.3.4",
-    "split": "^0.3.0",
-    "concat-stream": "^1.4.4"
+    "split": "~0.3.0",
+    "concat-stream": "~1.4.4",
+    "through2-map": "~1.2.1",
+    "request": "~2.34.0"
   }
 }
