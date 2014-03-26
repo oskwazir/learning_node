@@ -13,6 +13,7 @@
   "author": "Omer Wazir",
   "license": "ISC",
   "dependencies": {
-    "level": "~0.18.0"
+    "level": "~0.18.0",
+    "level-sublevel": "~5.2.0"
   }
 }
