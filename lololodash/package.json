@@ -1,0 +1,15 @@
+{
+  "name": "lololodash-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gettingStarted.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
